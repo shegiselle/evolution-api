@@ -6,6 +6,10 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "express": "^5.1.0"
-  }
+    "express": "^4.21.2"
+  },
+  "description": "API para automação de WhatsApp com Node.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
